@@ -11,7 +11,7 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
+    "name": "音乐解锁",
     "link": "https://hew666.github.io/Unlock-Music/"
   },
   {
@@ -28,6 +28,11 @@
     "icon": "Fire",
     "name": "订阅转换",
     "link": "https://sublink-worker.txwl666.workers.dev/"
+  },
+    {
+    "icon": "LaptopCode",
+    "name": "AI导航",
+    "link": "https://ai.zyfx6.xyz/"
   },
   {
     "icon": "LaptopCode",

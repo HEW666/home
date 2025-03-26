@@ -38,5 +38,10 @@
     "icon": "LaptopCode",
     "name": "水印照片",
     "link": "https://picseal-mocha.vercel.app/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": " 工具导航",
+    "link": "https://help.zyfx6.xyz/"
   }
 ]
